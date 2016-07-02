@@ -14,10 +14,10 @@ Client connects with `get` or `put` command and provides `local_filename` and `r
 
 # Instructions 
 
-1) Run ./server.sh and provide a UDP port (optional) in the console. If no UDP port is specified, it will pick one and print it to the console. 
-2) Modify command line arguments in client.sh (all parameters are required, but IP address can be "" for localhost)
-3) Run ./client.sh
-4) To close server, press Ctrl+C (may need to do it twice)
+1. Run ./server.sh and provide a UDP port (optional) in the console. If no UDP port is specified, it will pick one and print it to the console. 
+2. Modify command line arguments in client.sh (all parameters are required, but IP address can be "" for localhost)
+3. Run ./client.sh
+4. To close server, press Ctrl+C (may need to do it twice)
 
 
 # Tested on    
